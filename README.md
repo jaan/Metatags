@@ -15,3 +15,11 @@ Note: Latest specs asks to set in the HTTP header not in Meta tags
 <meta http-equiv="refresh" content="30">
 ```
 Refresh document every 30 seconds:
+
+```
+<meta http-equiv="x-dns-prefetch-control" content="off">
+```
+Turn off the DNS pre fetch
+
+
+
