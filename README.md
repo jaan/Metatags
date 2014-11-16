@@ -22,8 +22,10 @@ Refresh document every 30 seconds:
 Turn off the DNS pre fetch
 
 ## DNS prefetch
+```
 <link rel="dns-prefetch" href="//www.yahoo.com" />
-
+```
 ## Prefetch and prerender
+```
 <link rel="prefetch prerender" href="http://www.google.com" />
-
+```
